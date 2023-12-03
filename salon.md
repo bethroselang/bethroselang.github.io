@@ -14,12 +14,12 @@ Here are some pictures of the Salon that I have had built and am now working out
 
 | ![Salon 1](/assets/img/salon/salon_01.png) |
 |:--:|
-| Backwash and Cutting Chair |
+| |
 
 | ![](/assets/img/salon/salon_02.png) |
 |:--:|
-| Cutting Chair and Mirror |
+|  |
 
 | ![](/assets/img/salon/salon_03.png) |
 |:--:|
-| Mirror and Lights |
+|  |
