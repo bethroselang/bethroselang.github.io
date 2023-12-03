@@ -34,8 +34,8 @@ Beth x
 
 | Service | Price |
 | :--- | :--- |
-| Keratin Complex Smoothing (standalone)| £ 70.00 |
-| Keratin Complex Smoothing (additional)| £ 50.00 |
+| Keratin Complex (standalone)| £ 70.00 |
+| Keratin Complex (additional)| £ 50.00 |
 
 For more information on the Keratin Complex Smoothing please click [here](/keratin)
 
