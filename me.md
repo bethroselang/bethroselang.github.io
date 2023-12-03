@@ -11,8 +11,6 @@ sitemap: true
 
 ## About Me
 
-![me](/assets/img/about/about_me.png)
-
 Hello!
 
 I am a professional and reliable hair stylist with over 23 years of experience in all aspects of hair design, colouring, re-styles and generally making you look great and feel better! 

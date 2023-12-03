@@ -13,8 +13,8 @@ author1:
     path:            /assets/img/logo.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/logo.png
-      2x:            /assets/img/logo.png
+     1x:            /assets/img/logo.png
+     2x:            /assets/img/logo.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

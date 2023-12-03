@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://bethroselang.github.io
+url:                   https://elizabethrosebrett.co.uk
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -35,7 +35,7 @@ keywords:              ["Hair, Color, Hairstyle, Cut, Fashion"]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo/logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -89,13 +89,13 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/background.jpg
+accent_image:          /assets/img/background/background.jpg
 accent_color:          rgb(182,152,120)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(255,153,51)
+theme_color:           rgb(182,152,120)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
