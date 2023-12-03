@@ -13,7 +13,7 @@ sitemap: true
 
 Hello!
 
-I am a professional and reliable hair stylist with over 23 years of experience in all aspects of hair design, colouring, re-styles and generally making you look great and feel better! 
+I am a professional and reliable hair stylist with over 25 years of experience in all aspects of hair design, colouring, re-styles and generally making you look great and feel better! 
 
 I trained at Guildford Hair College then went on to work at Regis (Guildford), Enzorosario (Godalming) and Somewhere in West Street (Farnham) and now work for myself from my own [salon](/salon) in Liphook, Hampshire.
 
