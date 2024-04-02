@@ -23,3 +23,11 @@ Here are some pictures of the Salon that I have had built and am now working out
 | ![](/assets/img/salon/salon_03.png) |
 |:--:|
 |  |
+
+| ![](/assets/img/salon/salon_05.png) |
+|:--:|
+|  |
+
+| ![](/assets/img/salon/salon_06.png) |
+|:--:|
+|  |
