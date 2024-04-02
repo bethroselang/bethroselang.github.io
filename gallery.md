@@ -27,3 +27,7 @@ Below is some of the work I have done over the past year.  If you would like to 
 | ![Gallery 4](/assets/img/gallery/gallery_4.png) |
 |:--:|
 | |
+
+| ![Gallery 4](/assets/img/gallery/gallery_5.png) |
+|:--:|
+| |
