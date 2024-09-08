@@ -10,7 +10,7 @@ sitemap: true
 
 ## Gallery
 
-Below is some of the work I have done over the past year.  If you would like to book an appointment or consultation then get in touch by clicking [here](/contact).
+Below is some of the work I have done.  If you would like to book an appointment or consultation then get in touch by clicking [here](/contact).
 
 | ![Gallery 1](/assets/img/gallery/gallery_1.png) |
 |:--:|

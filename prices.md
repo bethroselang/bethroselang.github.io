@@ -34,10 +34,25 @@ Beth x
 
 | Service | Price |
 | :--- | :--- |
+| Toner (with colour) | £ 15.00 |
+| Toner (standalone) | £ 20.00 |
+| Olaplex Treatment | £ 20.00 |
 | Keratin Complex (standalone)| £ 70.00 |
 | Keratin Complex (additional)| £ 50.00 |
 
 For more information on the Keratin Complex Smoothing please click [here](/keratin)
+
+## Opening Hours
+
+| Day | Hours |
+| :--- | :--- |
+| Monday| Closed |
+| Tuesday| 10 am - 6 pm |
+| Wednesday| 10 am - 6 pm |
+| Thursday| 10 am - 6 pm |
+| Friday| 10 am - 4 pm |
+| Saturday| Closed |
+| Sunday| Closed |
 
 ### Note On Appointments
 
