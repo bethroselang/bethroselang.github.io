@@ -11,7 +11,7 @@ sitemap: true
 
 ## Prices
 
-Below is the current price list for regular and specialist services. If you have a particular style or need that is not listed below then please [get in touch](/contact) using the form below. For the Keratin Complex EBO Express Blowout Smoothing Service please [read this page](link) before booking to ensure you have all the relevant details up front.
+Below is the current price list for regular and specialist services. If you have a particular style or need that is not listed below then please [get in touch](/contact) using the form below. For the Keratin Complex EBO Express Blowout Smoothing Service please [read this page](/keratin) before booking to ensure you have all the relevant details up front.
 
 Thanks,
 
@@ -28,7 +28,7 @@ Beth x
 | Highlights (Half Head) | £ 90.00 |
 | Highlights (Full Head) | £ 110.00 |
 | Re-growth Tint (Full Head) | £ 65.00 |
-| Children’s Cut | £ 40.00 |
+| Children’s Cut (under 15's) | £ 40.00 |
 
 ## Specialist Services 
 
