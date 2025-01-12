@@ -9,7 +9,7 @@ sitemap: true
 ---
 <!--author-->
 
-## Prices
+## Prices for 2025
 
 Below is the current price list for regular and specialist services. If you have a particular style or need that is not listed below then please [get in touch](/contact) using the form below. For the Keratin Complex EBO Express Blowout Smoothing Service please [read this page](/keratin) before booking to ensure you have all the relevant details up front.
 
@@ -21,21 +21,24 @@ Beth x
 
 | Service | Price |
 | :--- | :--- |
-| Ladies Cut and Finish | £ 60.00 |
+| Ladies Cut and Finish | £ 65.00 |
+| Restyle | £ 75.00 |
 | Gents Cut and Finish | £ 40.00 |
-| Blow Dry | £ 35.00 |
+| Children’s Cut (under 14's) | £ 40.00 |
+| Blow Dry | £ 40.00 |
+| Re-growth Tint and Finish (Full Head) | £ 70.00 |
+| Money Piece (10 Foils) | £ 20.00 |
 | T-Section | £ 80.00 |
 | Highlights (Half Head) | £ 90.00 |
-| Highlights (Full Head) | £ 110.00 |
-| Re-growth Tint (Full Head) | £ 65.00 |
-| Children’s Cut (under 15's) | £ 40.00 |
+| Highlights (Full Head) | £ 115.00 |
+| Scalp Bleach | £ 80.00 |
+| Toner (With Colour) | £ 15.00 |
+| Toner (Standalone) | £ 20.00 |
 
 ## Specialist Services 
 
 | Service | Price |
 | :--- | :--- |
-| Toner (with colour) | £ 15.00 |
-| Toner (standalone) | £ 20.00 |
 | Olaplex Treatment | £ 20.00 |
 | Keratin Complex (standalone)| £ 70.00 |
 | Keratin Complex (additional)| £ 50.00 |
@@ -47,9 +50,9 @@ For more information on the Keratin Complex Smoothing please click [here](/kerat
 | Day | Hours |
 | :--- | :--- |
 | Monday| Closed |
-| Tuesday| 10 am - 6 pm |
+| Tuesday| 10 am - 7 pm |
 | Wednesday| 10 am - 6 pm |
-| Thursday| 10 am - 6 pm |
+| Thursday| 10 am - 7 pm |
 | Friday| 10 am - 4 pm |
 | Saturday| Closed |
 | Sunday| Closed |
